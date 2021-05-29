@@ -1,0 +1,56 @@
+.asteroid.big {
+    color: blue;
+}
+
+.asteroid.big:hover {
+    background-color: orange;
+}
+
+#b325, .b326 {
+    border: 1px solid green;
+    font-weight: bold;
+}
+
+.big {
+    background-color: yellow;
+}
+
+.b329 {
+    background-color: white;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: white;
+    width: 600px;
+    height: 50px;
+    border: 2px solid blue;
+    padding: 10px;
+  }
+
+  .item1 {
+    background-color: blue;
+    width: 40px;
+    height: 40px;
+    list-style: none;
+  }
+
+  .container3 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: orangered;
+    width: 600px;
+    height: 50px;
+    border: 2px solid blue;
+    padding: 10px;
+  }
+
+  .item2 {
+    background-color: purple;
+    width: 40px;
+    height: 40px;
+    list-style: none;
+  }
